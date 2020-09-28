@@ -1,0 +1,63 @@
+section{
+    text-align: center 
+}
+li{
+    padding: 5px;
+    font-size: 1.5em;
+    
+}
+hr{
+    text-align: center; color:#38463e; width:900px
+}
+ul{
+ margin-bottom: 111px;
+  margin-top: 72px;
+ list-style-type: none;
+}
+ul-1{
+margin-top: 10px;
+text-align: left;
+}
+body{ 
+ border: 1px red solid;
+ width: 1000px;
+ margin: 0 auto;
+background-image: url(../img/1.jpg);
+}
+p{
+    font-size: 1.5em;
+}
+.glava{
+    background-color: aqua;
+     font-size: 1.5em; 
+     padding: 0px 0px 0px 200px;
+      height: 200px; ;
+     margin: 0 auto;
+     z-index: 99;
+}
+.name{
+    float: left;
+}
+.icon{
+     display: inline;
+     float: right;
+     padding: 60px 100px 0px 0px; 
+}
+article{
+    z-index: 9999;
+}
+.blok{
+    width: 900px;
+     margin: -70px auto;
+}
+.foto{
+    float: left;width: 40%
+}
+#my{
+    width: 300px;
+}
+.osnova{
+    float: right;
+    width: 60%;
+    margin-bottom: 100px;
+}
